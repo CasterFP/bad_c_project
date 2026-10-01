@@ -6,8 +6,8 @@
 // черновик из прошлого семестра, наверное больше не нужен
 
 typedef struct {
-      int value;
-  int result;
+    int value;
+    int result;
 } legacy_pair_t;
 
 int legacy_sum(int a, int b);
