@@ -4,7 +4,7 @@
 // старая реализация арифметики, нигде не используется
 
 typedef struct {
-  int a;
+    int a;
     int b;
 } calc_pair_t;
 
